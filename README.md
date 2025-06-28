@@ -33,8 +33,8 @@ The dataset contains movie plot summaries along with their associated genres. Ea
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clonehttps://github.com/PranayTagde/MOVIE-GENRE-CLASSIFICATION.git
+cd MOVIE-GENRE-CLASSIFICATION
 ```
 
 1. Install the required dependencies:
@@ -46,7 +46,7 @@ pip install -r requirements.txt
 2. Launch Jupyter Notebook:
 
 ```bash
-jupyter notebook CREDIT CARD FRAUD DETECTION.ipynb
+jupyter notebook Movie Genre Classification.ipynb
 ```
 3. Execute each cell step-by-step to perform preprocessing, training, and evaluation.
 
